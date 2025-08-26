@@ -2,7 +2,7 @@
 
 **SFKH-GC: Harnessing the Power of Full-Neighborhoods Information for Large-Scale Attributed-Graph Learning**.
 
-![SFKH-GC](./SFKH-GC.jpg)
+![SFKH-GC](./SFKH-GC.png)
 
 ## Requirements
 
