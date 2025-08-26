@@ -257,7 +257,7 @@ yarl==1.9.4
 zipp==3.15.0
 dgl == 0.9
 
-### Hyperparameter Settings
+## Hyperparameter Settings
 
 The hyperparameter settings for the `SFKH-GC+Vanilla MLP` model on the four small-scale datasets are summarized below. While most training parameters were kept consistent, the propagation depth ($K$) and the MLP's hidden dimension were tuned on a per-dataset basis.
 
@@ -276,7 +276,9 @@ The hyperparameter settings for the `SFKH-GC+Vanilla MLP` model on the four smal
 | Total Updates | 1000 | 1000 | 1000 | 1000 |
 | Early Stopping Patience | 50 | 50 | 50 | 50 |
 
+## How to Run
 
+To train and evaluate the model, use the `train.py` script
 
 
 
