@@ -280,6 +280,8 @@ The hyperparameter settings for the `SFKH-GC+Vanilla MLP` model on the four smal
 
 To train and evaluate the model, use the `train.py` script
 
+For datasets, you can download them from https://figshare.com/s/5791ccd4c565843f70c6
+
 
 
 
